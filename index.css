@@ -177,7 +177,7 @@ h3:hover{
 }
 .GS{
     width: 100%;
-    margin-left: 40%;
+    margin-left: 20%;
 }
 .pp:hover{
 color: red;
@@ -193,4 +193,16 @@ color: red;
 }
 .I{
     margin-left: 1%;
+}
+.Categ{
+    border-right-style: solid;
+    border-right-width: 10%;
+    border-right-color: white;
+    width: 120%;
+}
+.G{
+    border-bottom-style: solid;
+    border-bottom-width: 10%;
+    border-bottom-color: white;
+
 }
